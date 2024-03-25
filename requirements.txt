@@ -13,3 +13,8 @@ memory_profiler
 numexpr
 pandas-datareader
 netcdf4
+
+# For Website
+pelican 
+Markdown 
+ghp-import
